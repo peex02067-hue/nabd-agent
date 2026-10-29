@@ -1,0 +1,9 @@
+{
+  "appId": "com.nabd.assistant",
+  "appName": "نبض",
+  "webDir": "www",
+  "android": { "allowMixedContent": true },
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
