@@ -20,7 +20,7 @@ jobs:
           java-version: 17
 
       - name: Install dependencies
-                run: npm install --legacy-peer-deps
+        run: npm install --legacy-peer-deps
 
       - name: Create Android project
         run: npx cap add android
